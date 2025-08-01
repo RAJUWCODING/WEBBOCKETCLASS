@@ -1,0 +1,18 @@
+*{
+    background-color: aquamarine;
+    color: rgb(108, 8, 201);
+}
+
+.container p{
+    font-size: 30px;
+    color: cadetblue;
+    color: red;
+}
+
+.hero {
+    background-image: url(./Talav\ stone\ tree.webp);
+    height: 1600px;
+    width: 1400px;
+    background-position: center;
+
+}
